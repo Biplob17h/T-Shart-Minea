@@ -1,0 +1,10 @@
+.header a{
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: bold;
+    color: rgb(236, 125, 125);
+    margin-right: 15px;
+}
+.header a:hover{
+    color: red;
+}

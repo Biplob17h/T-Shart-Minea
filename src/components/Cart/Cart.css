@@ -1,0 +1,21 @@
+.cart{
+    background-color: red;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: left;
+    padding-left: 70px;
+}
+.yellow{
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: left;
+    padding-left: 70px;
+}
+.green{
+    background-color:green;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: left;
+    padding-left: 70px;
+}
